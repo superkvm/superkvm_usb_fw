@@ -1,0 +1,19 @@
+{
+    "VersionNo": "0.9.10",
+    "Url": "https://raw.githubusercontent.com/superkvm/superkvm_usb_fw/refs/heads/main/app/ota_101_3_v0.9.10_20260105142910.bin",
+    "ChangeLog": {
+        "zh": "新增:\n1. 重启按钮和功能\n2. 读取和显示硬件实际版本号\n3. 鼠标微动功能:静止时每30s补发一次鼠标移动数据, 防止系统休眠",
+        "en": "New:\n1. Restart button and functionality\n2. Read and display actual hardware version number\n3. Mouse micro-movement feature: sends mouse movement data every 30s when idle to prevent system sleep",
+        "ru": "Новое:\n1. Кнопка перезагрузки и функциональность\n2. Чтение и отображение фактического номера версии оборудования\n3. Функция микродвижения мыши: отправка данных движения мыши каждые 30 секунд в режиме ожидания для предотвращения перехода системы в спящий режим",
+        "de": "Neu:\n1. Neustart-Taste und Funktionalität\n2. Lesen und Anzeigen der tatsächlichen Hardware-Versionsnummer\n3. Maus-Mikrobewegungsfunktion: sendet alle 30 Sekunden Mausbewegungsdaten im Leerlauf, um den Ruhezustand des Systems zu verhindern",
+        "nl": "Nieuw:\n1. Herstartknop en functionaliteit\n2. Lezen en weergeven van het werkelijke hardwareversienummer\n3. Muis microbewegingsfunctie: stuurt elke 30 seconden muisbewegingsgegevens wanneer inactief om systeemslaapstand te voorkomen",
+        "be": "Новае:\n1. Кнопка перазагрузкі і функцыянальнасць\n2. Чытанне і адлюстраванне фактычнага нумара версіі абсталявання\n3. Функцыя мікраруху мышы: адпраўка даных руху мышы кожныя 30 секунд у рэжыме чакання для прадухілення пераходу сістэмы ў спячы рэжым",
+        "ja": "新機能:\n1. 再起動ボタンと機能\n2. ハードウェアの実際のバージョン番号の読み取りと表示\n3. マウス微動機能: アイドル時に30秒ごとにマウス移動データを送信し、システムのスリープを防止",
+        "es": "Nuevo:\n1. Botón de reinicio y funcionalidad\n2. Leer y mostrar el número de versión real del hardware\n3. Función de micromovimiento del mouse: envía datos de movimiento del mouse cada 30 segundos cuando está inactivo para evitar que el sistema entre en suspensión",
+        "pt": "Novo:\n1. Botão de reinicialização e funcionalidade\n2. Ler e exibir o número de versão real do hardware\n3. Recurso de micromovimento do mouse: envia dados de movimento do mouse a cada 30 segundos quando inativo para evitar que o sistema entre em suspensão",
+        "fr": "Nouveau:\n1. Bouton de redémarrage et fonctionnalité\n2. Lire et afficher le numéro de version réel du matériel\n3. Fonction de micromouvement de la souris: envoie des données de mouvement de la souris toutes les 30 secondes en veille pour empêcher la mise en veille du système",
+        "ar": "جديد:\n1. زر إعادة التشغيل والوظيفة\n2. قراءة وعرض رقم إصدار الأجهزة الفعلي\n3. ميزة الحركة الدقيقة للماوس: إرسال بيانات حركة الماوس كل 30 ثانية عند الخمول لمنع دخول النظام في وضع السكون",
+        "ko": "신규:\n1. 재시작 버튼 및 기능\n2. 하드웨어 실제 버전 번호 읽기 및 표시\n3. 마우스 미세 이동 기능: 유휴 상태일 때 30초마다 마우스 이동 데이터를 전송하여 시스템 절전 모드 방지",
+        "he": "חדש:\n1. כפתור הפעלה מחדש ופונקציונליות\n2. קריאה והצגת מספר גרסת החומרה בפועל\n3. תכונת תנועה עדינה של העכבר: שולחת נתוני תנועת עכבר כל 30 שניות במצב סרק כדי למנוע כניסת המערכת למצב שינה"
+    }
+}
