@@ -1,6 +1,7 @@
 {
     "VersionNo": "0.9.6",
     "Url": "https://github.com/superkvm/superkvm_usb_fw/raw/refs/heads/main/bl/ota_101_2_v0.9.6_20251211111558.bin",
+    "MirrorUrl": "http://cdn.superkvm.com/superkvm_usb_fw/bl/ota_101_2_v0.9.6_20251211111558.bin",
     "ChangeLog": {
         "zh": "修复:\n1. 概率情况下, 部分 ota文件开头特征识别失败,导致ota失败(一旦 ota 文件触发 bug, 100% ota 失败)",
         "en": "Fixed:\n1. In some cases, feature recognition at the beginning of some OTA files fails, causing OTA failure (once an OTA file triggers the bug, 100% OTA failure)",

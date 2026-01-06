@@ -1,6 +1,7 @@
 {
     "VersionNo": "0.9.10",
     "Url": "https://github.com/superkvm/superkvm_usb_fw/raw/refs/heads/main/app/ota_101_3_v0.9.10_20260105142910.bin",
+    "MirrorUrl": "http://cdn.superkvm.com/superkvm_usb_fw/app/ota_101_3_v0.9.10_20260105142910.bin",
     "ChangeLog": {
         "zh": "新增:\n1. 重启按钮和功能\n2. 读取和显示硬件实际版本号\n3. 鼠标微动功能:静止时每30s补发一次鼠标移动数据, 防止系统休眠",
         "en": "New:\n1. Restart button and functionality\n2. Read and display actual hardware version number\n3. Mouse micro-movement feature: sends mouse movement data every 30s when idle to prevent system sleep",
