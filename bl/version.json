@@ -1,5 +1,8 @@
 {
     "VersionNo": "0.9.6",
+    "FileName": "ota_101_2_v0.9.6_20251211111558.bin",
+    "md5": "b703f74424843e145f534a0a32710518",
+    "sha256": "e418638479deb60d6114f922739839ba93f61c9d09d78aae2f12e604665c5a07",
     "Url": "https://github.com/superkvm/superkvm_usb_fw/raw/refs/heads/main/bl/ota_101_2_v0.9.6_20251211111558.bin",
     "MirrorUrl": "http://cdn.superkvm.com/superkvm_usb_fw/bl/ota_101_2_v0.9.6_20251211111558.bin",
     "ChangeLog": {
